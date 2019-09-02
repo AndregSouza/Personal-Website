@@ -1,79 +1,79 @@
 @font-face {
     font-family: 'GTSectraFine';
-    src: url('fonts/GtSectraFine/GtSectraFine-Black.woff2') format('woff2'),
-        url('fonts/GtSectraFine/GtSectraFine-Black.woff') format('woff');
+    src: url('fonts/GtSectraFine/GTSectraFine-Black.woff2') format('woff2'),
+        url('fonts/GtSectraFine/GTSectraFine-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'GTSectraFine-RegularItalic';
-    src: url('fonts/GtSectraFine/GtSectraFine-RegularItalic.woff2') format('woff2'),
-        url('fonts/GtSectraFine/GtSectraFine-RegularItalic.woff') format('woff');
+    src: url('fonts/GtSectraFine/GTSectraFine-RegularItalic.woff2') format('woff2'),
+        url('fonts/GtSectraFine/GTSectraFine-RegularItalic.woff') format('woff');
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'GTSectraFine';
-    src: url('fonts/GtSectraFine/GtSectraFine-Medium.woff2') format('woff2'),
-        url('fonts/GtSectraFine/GtSectraFine-Medium.woff') format('woff');
+    src: url('fonts/GtSectraFine/GTSectraFine-Medium.woff2') format('woff2'),
+        url('fonts/GtSectraFine/GTSectraFine-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'GTSectraFine';
-    src: url('fonts/GtSectraFine/GtSectraFine-MediumItalic.woff2') format('woff2'),
-        url('fonts/GtSectraFine/GtSectraFine-MediumItalic.woff') format('woff');
+    src: url('fonts/GtSectraFine/GTSectraFine-MediumItalic.woff2') format('woff2'),
+        url('fonts/GtSectraFine/GTSectraFine-MediumItalic.woff') format('woff');
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'GTSectraFine';
-    src: url('fonts/GtSectraFine/GtSectraFine-Regular.woff2') format('woff2'),
-        url('fonts/GtSectraFine/GtSectraFine-Regular.woff') format('woff');
+    src: url('fonts/GtSectraFine/GTSectraFine-Regular.woff2') format('woff2'),
+        url('fonts/GtSectraFine/GTSectraFine-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'GTSectraFine';
-    src: url('fonts/GtSectraFine/GtSectraFine-BlackItalic.woff2') format('woff2'),
-        url('fonts/GtSectraFine/GtSectraFine-BlackItalic.woff') format('woff');
+    src: url('fonts/GtSectraFine/GTSectraFine-BlackItalic.woff2') format('woff2'),
+        url('fonts/GtSectraFine/GTSectraFine-BlackItalic.woff') format('woff');
     font-weight: 900;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'GTSectraFine-Book';
-    src: url('fonts/GtSectraFine/GtSectraFine-Book.woff2') format('woff2'),
-        url('fonts/GtSectraFine/GtSectraFine-Book.woff') format('woff');
+    src: url('fonts/GtSectraFine/GTSectraFine-Book.woff2') format('woff2'),
+        url('fonts/GtSectraFine/GTSectraFine-Book.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'GTSectraFine-BookItalic';
-    src: url('fonts/GtSectraFine/GtSectraFine-BookItalic.woff2') format('woff2'),
-        url('fonts/GtSectraFine/GtSectraFine-BookItalic.woff') format('woff');
+    src: url('fonts/GtSectraFine/GTSectraFine-BookItalic.woff2') format('woff2'),
+        url('fonts/GtSectraFine/GTSectraFine-BookItalic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'GTSectraFine';
-    src: url('fonts/GtSectraFine/GtSectraFineBold-Italic.woff2') format('woff2'),
-        url('fonts/GtSectraFine/GtSectraFineBold-Italic.woff') format('woff');
+    src: url('fonts/GtSectraFine/GTSectraFineBold-Italic.woff2') format('woff2'),
+        url('fonts/GtSectraFine/GTSectraFineBold-Italic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'GTSectraFine';
-    src: url('fonts/GtSectraFine/GtSectraFine-Bold.woff2') format('woff2'),
-        url('fonts/GtSectraFine/GtSectraFine-Bold.woff') format('woff');
+    src: url('fonts/GtSectraFine/GTSectraFine-Bold.woff2') format('woff2'),
+        url('fonts/GtSectraFine/GTSectraFine-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }

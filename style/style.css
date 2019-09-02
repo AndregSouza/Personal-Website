@@ -63,7 +63,7 @@
 }
 
 @font-face {
-    font-family: 'GTSectraFineBold';
+    font-family: 'GTSectraFine';
     src: url('fonts/GTSectraFine/GtSectraFineBold-Italic.woff2') format('woff2'),
         url('fonts/GTSectraFine/GtSectraFineBold-Italic.woff') format('woff');
     font-weight: bold;

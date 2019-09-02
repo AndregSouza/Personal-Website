@@ -80,72 +80,72 @@
 
 @font-face {
     font-family: 'AktivGrotesk';
-    src: url('fonts/AktivGrotesk-BoldItalic.woff2') format('woff2'),
-        url('fonts/AktivGrotesk-BoldItalic.woff') format('woff');
+    src: url('fonts/AktivGrotesk/AktivGrotesk-BoldItalic.woff2') format('woff2'),
+        url('fonts/AktivGrotesk/AktivGrotesk-BoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'AktivGrotesk-HairlineItalic';
-    src: url('fonts/AktivGrotesk-HairlineItalic.woff2') format('woff2'),
-        url('fonts/AktivGrotesk-HairlineItalic.woff') format('woff');
+    src: url('fonts/AktivGrotesk/AktivGrotesk-HairlineItalic.woff2') format('woff2'),
+        url('fonts/AktivGrotesk/AktivGrotesk-HairlineItalic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'AktivGrotesk';
-    src: url('fonts/AktivGrotesk-Bold.woff2') format('woff2'),
-        url('fonts/AktivGrotesk-Bold.woff') format('woff');
+    src: url('fonts/AktivGrotesk/AktivGrotesk-Bold.woff2') format('woff2'),
+        url('fonts/AktivGrotesk/AktivGrotesk-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'AktivGrotesk';
-    src: url('fonts/AktivGrotesk-BlackItalic.woff2') format('woff2'),
-        url('fonts/AktivGrotesk-BlackItalic.woff') format('woff');
+    src: url('fonts/AktivGrotesk/AktivGrotesk-BlackItalic.woff2') format('woff2'),
+        url('fonts/AktivGrotesk/AktivGrotesk-BlackItalic.woff') format('woff');
     font-weight: 900;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'AktivGrotesk';
-    src: url('fonts/AktivGrotesk-Black.woff2') format('woff2'),
-        url('fonts/AktivGrotesk-Black.woff') format('woff');
+    src: url('fonts/AktivGrotesk/AktivGrotesk-Black.woff2') format('woff2'),
+        url('fonts/AktivGrotesk/AktivGrotesk-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'AktivGrotesk';
-    src: url('fonts/AktivGrotesk-MediumItalic.woff2') format('woff2'),
-        url('fonts/AktivGrotesk-MediumItalic.woff') format('woff');
+    src: url('fonts/AktivGrotesk/AktivGrotesk-MediumItalic.woff2') format('woff2'),
+        url('fonts/AktivGrotesk/AktivGrotesk-MediumItalic.woff') format('woff');
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'AktivGrotesk';
-    src: url('fonts/AktivGrotesk-Light.woff2') format('woff2'),
-        url('fonts/AktivGrotesk-Light.woff') format('woff');
+    src: url('fonts/AktivGrotesk/AktivGrotesk-Light.woff2') format('woff2'),
+        url('fonts/AktivGrotesk/AktivGrotesk-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'AktivGrotesk';
-    src: url('fonts/AktivGrotesk-Thin.woff2') format('woff2'),
-        url('fonts/AktivGrotesk-Thin.woff') format('woff');
+    src: url('fonts/AktivGrotesk/AktivGrotesk-Thin.woff2') format('woff2'),
+        url('fonts/AktivGrotesk/AktivGrotesk-Thin.woff') format('woff');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'AktivGrotesk';
-    src: url('fonts/AktivGrotesk-ThinItalic.woff2') format('woff2'),
-        url('fonts/AktivGrotesk-ThinItalic.woff') format('woff');
+    src: url('fonts/AktivGrotesk/AktivGrotesk-ThinItalic.woff2') format('woff2'),
+        url('fonts/AktivGrotesk/AktivGrotesk-ThinItalic.woff') format('woff');
     font-weight: 100;
     font-style: italic;
 }
@@ -735,7 +735,6 @@ span{
   }
 
   .project-presentation{
-    width: 500px;
   }
 
   .challenge{
@@ -829,8 +828,8 @@ span{
   }
 
   .intro-main{
-    margin-left: 7%;
-    margin-top: 90px;
+    margin-left: 8%;
+    margin-top: 0px;
     width: 25%;
     height: 40%;
     float: left;

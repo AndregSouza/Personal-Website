@@ -567,12 +567,69 @@ span{
   100% {transform: scaleX(1); visibility: visible;}
 }
 
+@media (max-width: 1200px){
+  .intro-left {
+    width: 180px;
+    float: right;
+    margin-top: 90px;
+    margin-right: 6vh;
+  }
+}
 
-
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
   #image-work{
     opacity: 0;
   }
+
+  .project-presentation{
+    width: 500px;
+  }
+
+  .challenge{
+    flex-direction: column;
+    align-items: normal;
+    justify-content: center;
+    height: 250px;
+  }
+
+  .challenge p{
+    width: 76%;
+    font-size: calc(12px + .9vw);
+    margin-right: 0%;
+    margin-left: 7%;
+    margin-top: 4%;
+  }
+
+  .journey{
+    flex-direction: column;
+    align-items: normal;
+    justify-content: center;
+    height: 250px;
+  }
+
+  .journey p{
+    width: 76%;
+    font-size: calc(12px + .9vw);
+    margin-right: 0%;
+    margin-left: 7%;
+    margin-top: 4%;
+  }
+
+  .solution{
+    flex-direction: column;
+    align-items: normal;
+    justify-content: center;
+    height: 250px;
+  }
+
+  .solution p{
+    width: 76%;
+    font-size: calc(12px + .9vw);
+    margin-right: 0%;
+    margin-left: 7%;
+    margin-top: 4%;
+  }
+
 
   h2{
     line-height: 90px;
@@ -583,6 +640,12 @@ span{
 
   .links{
     width: 100%;
+
+    margin-bottom: 30px;
+  }
+
+  h3{
+    font-size: 45px;
   }
 
   h4{
@@ -595,14 +658,31 @@ span{
     width: 75%;
   }
 
-}
-
-@media (max-width: 1200px){
-  .intro-left {
+  .intro-left{
     width: 180px;
-    float: right;
-    margin-top: 90px;
+    float: left;
+    clear: both;
+    margin-top: 0px;
+    margin-left: 7%;
+    margin-bottom: 20px;
+  }
+
+  .intro-right{
+    width: 162px;
+    margin-top: 0px;
+    margin-left: 8%;
+    float: left;
+    margin-bottom: 20px;
     margin-right: 6vh;
+  }
+
+  .intro-main{
+    margin-left: 7%;
+    margin-top: 90px;
+    width: 25%;
+    height: 40%;
+    float: left;
+    clear: both;
   }
 }
 

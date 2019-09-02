@@ -2,24 +2,6 @@ body{
   background-color: white;
 }
 
-@font-face {
-    font-family: 'aktivgrotesk-bolduploadedfile';
-    src: url('aktivgrotesk-bold-webfont.woff2') format('woff2'),
-         url('aktivgrotesk-bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'aktivgrotesk-bolduploadedfile';
-    src: url('aktivgrotesk-bolditalic-webfont.woff2') format('woff2'),
-         url('aktivgrotesk-bolditalic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
 header{
   background-color: white;
   width: 100%;
@@ -595,6 +577,24 @@ span{
   h2{
     line-height: 90px;
   }
+  .projects-titles{
+    width: 100%;
+  }
+
+  .links{
+    width: 100%;
+  }
+
+  h4{
+    margin-right: 10%;
+    float: left;
+  }
+
+  .content{
+    margin-left: 8%;
+    width: 75%;
+  }
+
 }
 
 @media (max-width: 1200px){

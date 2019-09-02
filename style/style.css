@@ -1,3 +1,156 @@
+@font-face {
+    font-family: 'GTSectraFine';
+    src: url('fonts/GTSectraFine/GtSectraFine-Black.woff2') format('woff2'),
+        url('fonts/GTSectraFine/GtSectraFine-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GTSectraFine-RegularItalic';
+    src: url('fonts/GTSectraFine/GtSectraFine-RegularItalic.woff2') format('woff2'),
+        url('fonts/GTSectraFine/GtSectraFine-RegularItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GTSectraFine';
+    src: url('fonts/GTSectraFine/GtSectraFine-Medium.woff2') format('woff2'),
+        url('fonts/GTSectraFine/GtSectraFine-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GTSectraFine';
+    src: url('fonts/GTSectraFine/GtSectraFine-MediumItalic.woff2') format('woff2'),
+        url('fonts/GTSectraFine/GtSectraFine-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GTSectraFine';
+    src: url('fonts/GTSectraFine/GtSectraFine-Regular.woff2') format('woff2'),
+        url('fonts/GTSectraFine/GtSectraFine-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GTSectraFine';
+    src: url('fonts/GTSectraFine/GtSectraFine-BlackItalic.woff2') format('woff2'),
+        url('fonts/GTSectraFine/GtSectraFine-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GTSectraFine-Book';
+    src: url('fonts/GTSectraFine/GtSectraFine-Book.woff2') format('woff2'),
+        url('fonts/GTSectraFine/GtSectraFine-Book.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GTSectraFine-BookItalic';
+    src: url('fonts/GTSectraFine/GtSectraFine-BookItalic.woff2') format('woff2'),
+        url('fonts/GTSectraFine/GtSectraFine-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GTSectraFineBold';
+    src: url('fonts/GTSectraFine/GtSectraFineBold-Italic.woff2') format('woff2'),
+        url('fonts/GTSectraFine/GtSectraFineBold-Italic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'GTSectraFine';
+    src: url('fonts/GTSectraFine/GtSectraFine-Bold.woff2') format('woff2'),
+        url('fonts/GTSectraFine/GtSectraFine-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AktivGrotesk';
+    src: url('fonts/AktivGrotesk-BoldItalic.woff2') format('woff2'),
+        url('fonts/AktivGrotesk-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AktivGrotesk-HairlineItalic';
+    src: url('fonts/AktivGrotesk-HairlineItalic.woff2') format('woff2'),
+        url('fonts/AktivGrotesk-HairlineItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AktivGrotesk';
+    src: url('fonts/AktivGrotesk-Bold.woff2') format('woff2'),
+        url('fonts/AktivGrotesk-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AktivGrotesk';
+    src: url('fonts/AktivGrotesk-BlackItalic.woff2') format('woff2'),
+        url('fonts/AktivGrotesk-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AktivGrotesk';
+    src: url('fonts/AktivGrotesk-Black.woff2') format('woff2'),
+        url('fonts/AktivGrotesk-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AktivGrotesk';
+    src: url('fonts/AktivGrotesk-MediumItalic.woff2') format('woff2'),
+        url('fonts/AktivGrotesk-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AktivGrotesk';
+    src: url('fonts/AktivGrotesk-Light.woff2') format('woff2'),
+        url('fonts/AktivGrotesk-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AktivGrotesk';
+    src: url('fonts/AktivGrotesk-Thin.woff2') format('woff2'),
+        url('fonts/AktivGrotesk-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AktivGrotesk';
+    src: url('fonts/AktivGrotesk-ThinItalic.woff2') format('woff2'),
+        url('fonts/AktivGrotesk-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+
+
 body{
   background-color: white;
 }
@@ -11,7 +164,7 @@ header{
 }
 
 header a{
-  font-family: "GT Sectra Fine",Times,serif;
+  font-family: "GTSectraFine",Times,serif;
   font-size: 20px;
   font-weight: 600;
   display: inline-block;
@@ -40,14 +193,14 @@ section p{
 }
 
 h1{
-  font-family: "GT Sectra Fine",Times,serif;
+  font-family: "GTSectraFine",Times,serif;
   font-size: calc(20px + 1.3vw);
   font-weight: 400;
   margin-top: 0px;
 }
 
 h2{
-  font-family: "GT Sectra Fine",Times,serif;
+  font-family: "GTSectraFine",Times,serif;
   font-size: 50px;
   font-weight: 500;
   text-decoration: none;
@@ -57,7 +210,7 @@ h2{
 }
 
 h3{
-  font-family: "GT Sectra Fine",Times,serif;
+  font-family: "GTSectraFine",Times,serif;
   font-size: 60px;
   font-weight: 500;
   margin-bottom: 0px;
@@ -69,7 +222,7 @@ h3{
 }
 
 h4{
-  font-family: "GT Sectra Fine",Times,serif;
+  font-family: "GTSectraFine",Times,serif;
   font-size: calc(18px + .1vw);
   font-weight: normal;
   text-align: left;
@@ -149,7 +302,7 @@ span{
 }
 
 .segredo{
-  font-family: "GT Sectra Fine",Times,serif;
+  font-family: "GTSectraFine",Times,serif;
   font-size: 40px;
   font-weight: 500;
   margin-bottom: 0px;
@@ -567,11 +720,67 @@ span{
   100% {transform: scaleX(1); visibility: visible;}
 }
 
+@media (max-width: 1200px){
+  .intro-left {
+    width: 180px;
+    float: right;
+    margin-top: 90px;
+    margin-right: 6vh;
+  }
+}
 
-
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
   #image-work{
     opacity: 0;
+  }
+
+  .project-presentation{
+    width: 500px;
+  }
+
+  .challenge{
+    flex-direction: column;
+    align-items: normal;
+    justify-content: center;
+    height: 250px;
+  }
+
+  .challenge p{
+    width: 76%;
+    font-size: calc(12px + .9vw);
+    margin-right: 0%;
+    margin-left: 7%;
+    margin-top: 4%;
+  }
+
+  .journey{
+    flex-direction: column;
+    align-items: normal;
+    justify-content: center;
+    height: 250px;
+  }
+
+  .journey p{
+    width: 76%;
+    font-size: calc(12px + .9vw);
+    margin-right: 0%;
+    margin-left: 7%;
+    margin-top: 4%;
+  }
+
+  .solution{
+    flex-direction: column;
+    align-items: normal;
+    justify-content: center;
+    height: 250px;
+  }
+
+  .solution p{
+    width: 76%;
+    font-size: calc(12px + .9vw);
+    margin-right: 0%;
+    margin-left: 7%;
+    margin-top: 4%;
   }
 
   h2{
@@ -583,6 +792,12 @@ span{
 
   .links{
     width: 100%;
+
+    margin-bottom: 30px;
+  }
+
+  h3{
+    font-size: 45px;
   }
 
   h4{
@@ -595,17 +810,33 @@ span{
     width: 75%;
   }
 
-}
-
-@media (max-width: 1200px){
-  .intro-left {
+  .intro-left{
     width: 180px;
-    float: right;
-    margin-top: 90px;
+    float: left;
+    clear: both;
+    margin-top: 0px;
+    margin-left: 7%;
+    margin-bottom: 20px;
+  }
+
+  .intro-right{
+    width: 162px;
+    margin-top: 0px;
+    margin-left: 8%;
+    float: left;
+    margin-bottom: 20px;
     margin-right: 6vh;
   }
-}
 
+  .intro-main{
+    margin-left: 7%;
+    margin-top: 90px;
+    width: 25%;
+    height: 40%;
+    float: left;
+    clear: both;
+  }
+}
 
 @media (min-width: 1300px) {
   h2{

@@ -197,6 +197,7 @@ h1{
   font-size: calc(20px + 1.3vw);
   font-weight: 400;
   margin-top: 0px;
+  line-height: 1.5;
 }
 
 h2{
@@ -485,6 +486,7 @@ span{
 .challenge p{
   width: 475px;
   margin-right: 8%;
+  line-height: 1.5;
 }
 
 .research{
@@ -505,6 +507,7 @@ span{
 .research p{
   width: 475px;
   margin-right: 8%;
+  line-height: 1.5;
 }
 
 .insights{
@@ -530,6 +533,7 @@ span{
   list-style: none;
   font-family: "AktivGrotesk", sans-serif;
   font-size: 20px;
+  line-height: 1.5;
 }
 
 
@@ -553,6 +557,7 @@ span{
 .journey p{
   width: 475px;
   margin-right: 8%;
+  line-height: 1.5;
 }
 
 .solution{
@@ -575,6 +580,7 @@ span{
 .solution p{
   width: 475px;
   margin-right: 8%;
+  line-height: 1.5;
 }
 
 .pre-loading{

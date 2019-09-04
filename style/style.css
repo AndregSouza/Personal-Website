@@ -475,7 +475,7 @@ span{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #eff0eb;
+  background-color: #E5E5E5;
 }
 
 .challenge h3{
@@ -545,7 +545,7 @@ span{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #E5E5E5;
+  background-color: #ffffff;
 }
 
 .journey h3{
@@ -568,7 +568,7 @@ span{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #eff0eb;
+  background-color: #E5E5E5;
 }
 
 .solution h3{
